@@ -25,7 +25,7 @@
 	</modules>
 
 	<packaging>pom</packaging>
-	<name>Spring cloud zuul</name>
+	<name>spring-cloud-examples</name>
 	<description>Demo project for Spring Boot</description>
 
 
